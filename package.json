@@ -4,6 +4,7 @@
   "description": "Express Crash Course",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
     "dev": "nodemon index.js"
   },
   "repository": {
